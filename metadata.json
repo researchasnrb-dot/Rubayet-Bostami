@@ -1,0 +1,8 @@
+
+{
+  "name": "Dr. A.B.M. Rubayet Bostami - Academic Portfolio",
+  "description": "Professional research and academic portfolio for Dr. A.B.M. Rubayet Bostami, specializing in Animal Science and Nutrition at GAU.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
